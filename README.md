@@ -10,6 +10,7 @@
 
 Examples:
 - **They** went to the park.
+- I see **them**.
 - I went with **them**.
 - **They** brought **their** frisbee.
 - At least I think it was **theirs**.
@@ -21,3 +22,9 @@ Examples:
 - pronom objet: **lo**
 - pronom disjoint: **iel**
 - accord: utiliser les formes singulières (féminine et masculine sont également acceptable maintenant)
+
+Exemples:
+- **Iel** est **allé**/**allée**/**allé·e** au parc.
+- Je **lo** vois.
+- Je suis allé·e avec **iel**.
+- Je pense qu'**iel** est **gentil**/**gentille**/**gentil·le**.
