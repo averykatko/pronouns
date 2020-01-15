@@ -16,6 +16,18 @@ Examples:
 - At least I think it was **theirs**.
 - **They** threw the frisbee to **themself**/**themselves**.
 
+## Esperanto
+
+- pronomo: **ri**
+
+Ekzemploj:
+- **Ri** iris al la parko.
+- Mi vidas **rin**.
+- Mi iris kun **ri**.
+- Mi ĵetis **rian** flugdiskon.
+- **Ria** nomo belas.
+- Mi pensas, ke ĝi estas **ria**.
+
 ## Français
 
 - pronom sujet: **iel**
