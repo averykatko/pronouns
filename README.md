@@ -16,6 +16,18 @@ Examples:
 - At least I think it was **theirs**.
 - **They** threw the frisbee to **themself**/**themselves**.
 
+## Español
+
+- pronombre tónico: **elle**
+- pronombre de objeto: **le**
+- adjetivos: utilizar las formas epicenas, o reemplazar -a/-o por *-e*
+
+Ejemplos:
+- **Elle** fue al parque.
+- **Le** veo.
+- Fui con **elle**.
+- Pienso que **elle** es **simpátique**.
+
 ## Esperanto
 
 - pronomo: **ri**
