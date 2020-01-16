@@ -20,7 +20,7 @@ Examples:
 
 - pronombre tónico: **elle**
 - pronombre de objeto: **le**
-- adjetivos: utilizar las formas epicenas, o reemplazar -a/-o por *-e*
+- adjetivos: utilizar las formas epicenas, o reemplazar -a/-o por **-e**
 
 Ejemplos:
 - **Elle** fue al parque.
