@@ -1,6 +1,6 @@
 # How to refer to me in several languages!
 
-[English](#english) • [Español](#español) • [Esperanto](#esperanto) • [Français](#français)
+[English](#english) • [Español](#español) • [Esperanto](#esperanto) • [Français](#français) • <a href="#יידיש">יידיש</a>
 
 ## English
 
