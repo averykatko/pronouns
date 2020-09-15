@@ -54,3 +54,10 @@ Exemples:
 - Je **lo** vois.
 - Je suis allé·e avec **iel**.
 - Je pense qu'**iel** est **gentil**/**gentille**/**gentil·le**.
+
+## יידיש
+
+– נאמינאטיווער פראנאם: זיי
+– אקוזאטיווער פראנאם: זיי
+– דאטיווער פראנאם: זיי
+– פאזעסיווער פראנאם: זייער
