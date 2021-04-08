@@ -57,6 +57,7 @@ Exemples:
 
 ## יידיש
 
+<div lang="yi-Hebr" dir="RTL">
 <ul lang="yi-Hebr" dir="RTL">
   <li>נאָמינאַטיווער פּראָנאָם:
     <strong>
@@ -82,3 +83,22 @@ Exemples:
     </strong>
   </li>
 </ul>
+
+בײַשפּילן:
+<ul lang="yi-Hebr" dir="RTL">
+  <li>
+    <strong>
+      זיי
+    </strong>
+    איז געגאַנגען צום פּאַרק.
+  </li>
+  <li>
+    איך זע 
+    <strong>
+      זיי 
+    </strong>
+    .
+  </li>
+</ul>
+
+</div>
